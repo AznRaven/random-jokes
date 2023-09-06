@@ -1,0 +1,7 @@
+
+# Get Quote
+GET https://api.api-ninjas.com/v1/jokes?limit=$3
+X-Api-Key: Dh5RCG5nQS36KSm5I03wTw==egvnVJc8gUDtYXqU
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOjUxLCJzdWIiOiJtQG0uY29tIiwiaWF0IjoxNjkyNTg0NTk0LCJleHAiOjE2OTI1ODYwMzR9.KtxPylWo5N3V06RWKsYgFuPmW3MWVnXvuOLn7TAkg8o
+
+###
