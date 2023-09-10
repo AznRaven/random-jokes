@@ -4,7 +4,7 @@ import axios from "axios";
 export default function Home() {
   const [data, setData] = useState([]);
   const [random, setRandom] = useState(0);
-  const limit = 3;
+  const limit = 1;
   const apiKey = process.env.REACT_APP_KEY;
 
   useEffect(() => {
