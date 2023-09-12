@@ -55,7 +55,7 @@ export default function Joke() {
             placeholder="Username"
             required
           />
-          <label for="floatingInputGroup2">Number Of {category.charAt(0).toUpperCase() + category.slice(1)} Quotes</label>
+          <label for="floatingInputGroup2">Number Of {category.charAt(0).toUpperCase() + category.slice(1)} Quotes (Limit 10)</label>
         </div>
         {limit ? (
           ""
