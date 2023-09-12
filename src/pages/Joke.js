@@ -35,12 +35,11 @@ export default function Joke() {
   return (
     <>
       <h1>Random Jokes</h1>
-      <button onClick={fetchData}>Randomize</button>
       <br />
       <br />
       
       <div class="input-group has-validation">
-        <button class="btn btn-outline-primary" onClick={fetchData}>Randomize</button> 
+        <button class="btn btn-outline-primary" onClick={fetchData}>Randomize Jokes</button> 
         <div></div>
         <div class="form-floating is-invalid">
           <input
